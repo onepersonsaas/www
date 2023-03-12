@@ -2,6 +2,22 @@
 www.onepersonsaas.com
 
 
+[How to start One-Person AI Startup - by Eva Rtology](https://evartology.substack.com/p/how-to-start-one-person-ai-startup?r=9hp4d)
+
+> **2023 is the ideal year to generate cash using AI.** It's never been easier. Tools that were only available to a few are now available with a click. AI products by solo entrepreneurs are winning the hearts of users. Tedious daily routines have become a pleasure.
+> 
+> AI does the boring work for us, and we can attend to what fascinates us. Running a one-person AI startup is an opportunity to gain financial independence and explore new worlds. Although in the case of AI, it's more about creating new worlds.
+> 
+> #### Excited to see how far a one-person AI business can go!
+> 
+> Practical examples, helpful tools, now code and low code solutions, and support from experts in the field of machine learning. These are just some of the things you'll find in my articles. In this article, I'll show you the first example to help you start making AI money today.
+> 
+> Benefit from this once-in-a-lifetime chance while creating the place of your dreams. Begin right away:
+
+
+
+
+
 
 [Finding Micro SaaS Ideas in 2023](https://www.preetamnath.com/micro-saas/finding-micro-saas-ideas)
 
