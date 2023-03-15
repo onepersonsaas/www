@@ -1,5 +1,4 @@
-# www
-www.onepersonsaas.com
+# [www.onepersonsaas.com](http://www.onepersonsaas.com)
 
 
 [How to start One-Person AI Startup - by Eva Rtology](https://evartology.substack.com/p/how-to-start-one-person-ai-startup?r=9hp4d)
