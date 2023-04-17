@@ -1,6 +1,11 @@
 # [www.onepersonsaas.com](http://www.onepersonsaas.com)
 
 
+## HR
+
+[7 mądrych celów, które możesz wyznaczyć w swojej organizacji w 2023 roku | Adam Trojańczyk](https://trojanczyk.pl/7-madrych-celow-dla-twojej-organizacji-na-2023/)
+
+
 ## START
 
 
@@ -15,6 +20,11 @@ AI does the boring work for us, and we can attend to what fascinates us. Running
 Practical examples, helpful tools, now code and low code solutions, and support from experts in the field of machine learning. These are just some of the things you'll find in my articles. In this article, I'll show you the first example to help you start making AI money today.
 
 Benefit from this once-in-a-lifetime chance while creating the place of your dreams. Begin right away:
+
+
+## Inkubacja
+
+[Startupy - Centrum Kreowania Innowacji](https://ckinno.pl/startupy/)
 
 
 
