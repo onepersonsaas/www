@@ -3,7 +3,17 @@
 
 ## HR
 
-[7 mądrych celów, które możesz wyznaczyć w swojej organizacji w 2023 roku | Adam Trojańczyk](https://trojanczyk.pl/7-madrych-celow-dla-twojej-organizacji-na-2023/)
+
+### [7 mądrych celów, które możesz wyznaczyć w swojej organizacji w 2023 roku | Adam Trojańczyk](https://trojanczyk.pl/7-madrych-celow-dla-twojej-organizacji-na-2023/)
+
+- [Człowiek jest najważniejszy i powinien być w centrum biznesu](https://trojanczyk.pl/7-madrych-celow-dla-twojej-organizacji-na-2023/#czlowiek-jest-najwazniejszy-i-powinien-byc-w-centrum-biznesu)
+- [Obszary odpowiedzialności są lepsze niż delegowanie zadań](https://trojanczyk.pl/7-madrych-celow-dla-twojej-organizacji-na-2023/#obszary-odpowiedzialnosci-sa-lepsze-niz-delegowanie-zadan)
+- [Struktura wsparcia jako kultura niezbędna by organizacja mogła się rozwijać](https://trojanczyk.pl/7-madrych-celow-dla-twojej-organizacji-na-2023/#struktura-wsparcia-jako-kultura-niezbedna-by-organizacja-mogla-sie-rozwijac)
+- [Procesy w przedsiębiorstwie rozwiązaniem na wiele bolączek](https://trojanczyk.pl/7-madrych-celow-dla-twojej-organizacji-na-2023/#procesy-w-przedsiebiorstwie-rozwiazaniem-na-wiele-bolaczek)
+- [Ścieżki rozwoju doceniające wiedzę, doświadczenie i umiejętności](https://trojanczyk.pl/7-madrych-celow-dla-twojej-organizacji-na-2023/#sciezki-rozwoju-doceniajace-wiedze-doswiadczenie-i-umiejetnosci)
+- [Samodziałający rozwój pracowników to przyszłość organizacji](https://trojanczyk.pl/7-madrych-celow-dla-twojej-organizacji-na-2023/#samodzialajacy-rozwoj-pracownikow-to-przyszlosc-organizacji)
+- [Transparentne spotkania oraz przemawianie do całej firmy daje dużo korzyści](https://trojanczyk.pl/7-madrych-celow-dla-twojej-organizacji-na-2023/#transparentne-spotkania-oraz-przemawianie-do-calej-firmy-daje-duzo-korzysci)
+- [Podsumowanie](https://trojanczyk.pl/7-madrych-celow-dla-twojej-organizacji-na-2023/#podsumowanie)
 
 
 ## START
