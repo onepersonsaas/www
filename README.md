@@ -15,8 +15,11 @@
   + complete the FORM for the IT team to help launch the SaaS
   + setup, step by step with IT guys on **One Day Run**
 + [**One Day Run** - IT Support for services online](http://www.onedayrun.com)
+  + chat with IT Support to start the service implementation
++ [**Dynapsys** - infrastructure to start/update any service in the fly](http://www.dynapsys.com)  
+  + platform for API integration with DNS Infrastructure
+  + market of services to be used for the needs of **OneDayRun** customers
 
-  
 
 ## START
 
