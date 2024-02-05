@@ -21,6 +21,87 @@
   + market of services to be used for the needs of **OneDayRun** customers
 
 
+
+## Owner
+
+wybór template do wytwarzania:
++ lista max godzin/tydzień: 
++ wkład: swoje/crowdfunding
+  
+ 
+## Automatycznie
+
++ odsprzedaż udziałów
++ składanie ofert
++ 
+
+
+## lista głosowań 
++ skład?
++ akceptacja plan realizacji
++ model biznesowy
++ zmianę strategii
+
+
+
+głosowanie - ankieta
++ typy głosowania
++ role
+  
+
+## Giełda
+
++ Giełda pomysłów z wkładem owner-a
++ Opcja odkupu, zabezpieczenie
++ Klienci - depozyt
++ możliwość wyjścia ownera?
+  + odsprzedaż?
++ owner wkłada pieniądze i bierze za to udziału i jeśli jest to większość to decyduje
+
+
+## Udziały 
+
++ decyzja
++ 
+
+## Umowa
+
+Umowa założycielska dla każdej iteracji oddzielny
++ procent udziału
++ czas (koszt za godzinę) / zasoby->dostęp / pieniądze
+
+
+## Zasoby:
+
++ infra
++ czas
++ pieniądze
++ klienci na start - depozyt
+
+
+## Zasady iteracji
+
++ realizacja projektu w 1 tydzień, MVP
++ max. 30 godzin / tydzień / osobę
++ Na każdą iterację są określone zasoby i role
++ W przypadku nie wywiązania się, jest zwalniane miejsce
++ Koszty są rozliczane tylko za wykonane w jednej iteracji
++ określić swoją odpowiedzialność
++ jak rozliczać przychody, kto będzie kontrolował podział z każdego transakcji, jaki operator?
+
+
+
+## role:
+
+owner
+manager
+marketing
+low-code
+front
+backend
+devops
+
+
 ## START
 
 
