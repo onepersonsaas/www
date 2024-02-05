@@ -14,7 +14,7 @@
 + [**One Person SaaS** - How to run one person business online](http://www.onepersonsaas.com)
   + complete the FORM for the IT team to help launch the SaaS
   + setup, step by step with IT guys on **One Day Run**
-+ [**One Day Run** - IT Support for services online](http://www.onedayrun.com)
++ [**One Day Run** - IT Support for services online](http://www.onedayrun.com) / [apka.pl - the same for poland](http://www.apka.pl) / [wapka.de - the same for germany](http://www.wapka.de)
   + chat with IT Support to start the service implementation
 + [**Dynapsys** - infrastructure to start/update any service in the fly](http://www.dynapsys.com)  
   + platform for API integration with DNS Infrastructure
