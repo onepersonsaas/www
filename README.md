@@ -46,10 +46,13 @@ Spektrum możliwości:
 - Opensource
 - 
 
+
 ## Warunki
 
 Tylko małe SaaS 
-Tygodniowe cykle
+Tygodniowe cykle w wktórych powstaje MVP
+może to być pojedyncza funkcjonalność, która wnosi nowy udział, może to być np. kampania + newsletter, która przyniesie więcej klientów.
+
 
 
 ## Owner
@@ -57,7 +60,12 @@ Tygodniowe cykle
 wybór template do wytwarzania:
 + lista max godzin/tydzień: 
 + wkład: swoje/crowdfunding
-  
+
+wkład musi pokrywać 50% wartości, w przypadku, gdy z pozostałych 50% zrezygnują udziałowcy/wykonawncy to musi być wypłacalne z pierwszego tygodnia.
+w Kolejnych tygodniach pokrywanie udziałów może być przez wkład klientów.
+
+
+
  
 ## Automatycznie
 
