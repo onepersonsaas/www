@@ -1,5 +1,6 @@
 # [www.onepersonsaas.com](http://www.onepersonsaas.com)
 
+
 + [**SaaS is King** - How to start SaaS](http://www.saasisking.com)
   + Blog
   + Social media
@@ -12,23 +13,38 @@
   + complete the FORM for the IT team to help launch the SaaS
   + setup, step by step with IT guys on **One Day Run**
 
+
     
 + [**micro Unicorns** - Weekly updated about SaaS Startups](http://www.microunicorns.com)
-  + giełda zgłosoznych pomysłów
-  + newsletter
-  + Social media
-  + form to applying your SaaS
+  + landing page softr.
+  + form to applying your SaaS to review
+  + giełda zgłosznych pomysłów - jak pioneer
+  
+  + newsletter - formularz - sendgrid
+  + Marketing, Social media - profil linkedin, meta, twitter, ..
+  
   + promote your SaaS
-    
+  + promote your service: Freelancers, Software house, Services
 
+    
 + [**One Day Run** - IT Support for services online](http://www.onedayrun.com) / [apka.pl - the same for poland](http://www.apka.pl) / [wapka.de - the same for germany](http://www.wapka.de)
   + chat with IT Support to start the service implementation
+
 
     
 + [**Dynapsys** - infrastructure to start/update any service in the fly](http://www.dynapsys.com)  
   + platform for API integration with DNS Infrastructure
   + market of services to be used for the needs of **OneDayRun** customers
 
+
+Spektrum możliwości:
++ Wordpress 
++ NoCode - 
++ Infra - uzupełnienie
+
+
+- Opensource
+- 
 
 ## Warunki
 
