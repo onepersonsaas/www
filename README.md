@@ -33,7 +33,8 @@
 
     
 + [**One Day Run** - IT Support for services online](http://www.onedayrun.com) / [apka.pl - the same for poland](http://www.apka.pl) / [wapka.de - the same for germany](http://www.wapka.de)
-  + chat with IT Support to start the service implementation
+ + chat with IT Support to start the service implementation
+ + Human friendly support, paid by days/hours
 
 
     
