@@ -1,21 +1,26 @@
 # [www.onepersonsaas.com](http://www.onepersonsaas.com)
 
 
-+ [**SaaS is King** - How to start SaaS](http://www.saasisking.com)
++ [**SaaS is King** - service-based business](http://www.saasisking.com)
+  + How to start SaaS
   + Blog
   + Social media
   + newsletter
   + Advertising online courses
  
     
-+ [**One Person SaaS** - Form for SaaS founders](http://www.onepersonsaas.com)
-  + zgłoszenie pomysłu
-  + complete the FORM for the IT team to help launch the SaaS
-  + setup, step by step with IT guys on **One Day Run**
++ [**One Person SaaS** - Personalized Services in Minutes](http://www.onepersonsaas.com)
+  + Marketplace of SaaS
+  + Personalized FaaS Marketplace based on dynapsys
 
 
     
-+ [**micro Unicorns** - Weekly updated about SaaS Startups](http://www.microunicorns.com)
++ [**micro Unicorns** - Start-up & Scale up](http://www.microunicorns.com)
+  + Form for SaaS founders
+  + zgłoszenie pomysłu
+  + complete the FORM for the IT team to help launch the SaaS
+  + setup, step by step with IT guys on **One Day Run**
+  + Weekly updated about SaaS Startups
   + landing page softr.
   + form to applying your SaaS to review
   + giełda zgłosznych pomysłów - jak pioneer
