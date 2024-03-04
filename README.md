@@ -1,7 +1,7 @@
 # [www.onepersonsaas.com](http://www.onepersonsaas.com)
 
 ## One Person SaaS - Personalized Services in Minutes
-
++ [zaplanujbiznes/www - www.zaplanujbiznes.pl](https://github.com/zaplanujbiznes/www/)
 
 ## PL
 
